@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-01-09T14:32:37.975Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="Jeo2xIggobPk5a9D_N3I" version="12.4.9" type="github">
+<mxfile host="www.draw.io" modified="2020-01-14T07:46:29.081Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="iqILc3cxP_KsS5T5cr9R" version="12.5.1" type="github">
   <diagram name="Page-1" id="90a13364-a465-7bf4-72fc-28e22215d7a0">
-    <mxGraphModel dx="1597" dy="1039" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1118" dy="678" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;"/>
         <mxCell id="1" style=";html=1;" parent="0"/>
@@ -81,8 +81,10 @@
         <mxCell id="n9JeujyGIQDzZaSC9OFq-38" value="Node-operator" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="480" y="1540" width="137" height="50" as="geometry"/>
         </mxCell>
-        <mxCell id="n9JeujyGIQDzZaSC9OFq-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.007;entryY=0.896;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="n9JeujyGIQDzZaSC9OFq-39" target="n9JeujyGIQDzZaSC9OFq-35" edge="1">
-          <mxGeometry relative="1" as="geometry"/>
+        <mxCell id="n9JeujyGIQDzZaSC9OFq-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="n9JeujyGIQDzZaSC9OFq-39" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="790" y="1635" as="targetPoint"/>
+          </mxGeometry>
         </mxCell>
         <mxCell id="n9JeujyGIQDzZaSC9OFq-39" value="CI/CD" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="480" y="1610" width="137" height="50" as="geometry"/>
